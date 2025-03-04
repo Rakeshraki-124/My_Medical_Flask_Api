@@ -20,7 +20,7 @@ This is a **Flask-based API** for a **Medical Shopping Application**, built with
 🔧 Installation & Setup
 
 1️⃣ Clone the repository:
-git clone https://github.com/Rakeshraki-124/medical-shopping-api.git  
+git clone https://github.com/Rakeshraki-124/My_Medical_Flask_Api.git  
 cd medical-shopping-api
 
 2️⃣ Install dependencies:
